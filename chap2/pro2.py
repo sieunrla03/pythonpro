@@ -2,7 +2,7 @@ name = input("Hi, What's your name? ")
 age = int(input("And how are you? "))
 weigh = int(input("Okay, last question. How many pounds do you weigh? \n"))
 dog = age/7
-print("Did you know that you're", int(dog), "just in dog year?")
+print("Did you know that you're", int(dog),"just in dog year?")
 
 sec = age*360*24*60*60
 print("But you're also over", int(sec), "seconds old\n")
